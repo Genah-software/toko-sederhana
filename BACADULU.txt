@@ -1,1 +1,3 @@
-jalan kan di localhost/toko_online
+jalan kan di >: localhost/toko_online
+
+untuk ke admin nya >: localhost/toko_online/admin
